@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-    printf("Hello, World!");
+    printf("NEW, World!");
     return 0;
     printf("This line will never be executed.");
 }
