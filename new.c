@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main() {
     //first line code
-    printf("NEW, World will grow!");
+    //scan
+    scanf("%s");
     return 0;
     printf("This line will never be executed.");
     printf("This line will also never be executed.");
