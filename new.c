@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main() {
-    int d[100];
-    scanf("%d",d);
+    int f[100];
+    int i;
+    scanf("%d",i);
     return 0;
     printf("This line will never be executed.");
     printf("This line will also never be executed.");
