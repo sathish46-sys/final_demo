@@ -7,7 +7,7 @@ int main() {
     printf("This line will never be executed.");
      printf(" no conflict");
      printf("hello world");
-     printf("i dont want to execute");
+     printf("i dt to execute");
     
 
 
