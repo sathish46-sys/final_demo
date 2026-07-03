@@ -5,7 +5,7 @@ int main() {
     scanf("%d",i);
     return 0;
     printf("This line will never be executed.");
-     printf(" new issue");
+     printf(" hello ");
      printf("main");
     
 
