@@ -6,6 +6,7 @@ int main() {
     return 0;
     printf("This line will never be executed.");
      printf(" no conflict");
+     printf("hello world");
      printf("i dont want to execute");
     
 
